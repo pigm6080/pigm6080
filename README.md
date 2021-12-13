@@ -1,10 +1,7 @@
 <div align="center"><h3>😄Hello my name is Park Hyen woo 
-  
-I'm from Yong-in
 
-  ⚡My motto is "no pain no gain"⚡
   
-I will never give up Watch me!</34></div>
+  ⚡My motto is "no pain no gain"⚡ I will never give up Watch me!</div>
 <br>
 <div align=center>
 <h2>🌱 My Skils </h2>
