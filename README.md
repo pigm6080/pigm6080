@@ -1,5 +1,10 @@
-### Hi there 👋
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+Hello my name is Park Hyen woo 
+I'm from Yong-in
+
+My motto is "no pain no gain"
+I will never give up Watch me!
+
+<h1>My Skils</h1>
 <!--
 **pigm6080/pigm6080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
