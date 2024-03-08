@@ -1,4 +1,4 @@
-![2024-03-0810 32 29-ezgif com-video-to-gif-converter](https://github.com/pigm6080/pigm6080/assets/74187960/90ce3222-b677-40ba-97b2-3bfb43d1fab7)
+![2024-03-0810 32 29-ezgif com-resize](https://github.com/pigm6080/pigm6080/assets/74187960/48f12283-948f-40dd-9b65-66f18b0c749f)
 
 <img src=file:///Users/myhome/Downloads/a.html>
 
