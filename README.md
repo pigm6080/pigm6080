@@ -1,6 +1,5 @@
-<p align="center">
 ![2024-03-0810 32 29-ezgif com-resize](https://github.com/pigm6080/pigm6080/assets/74187960/48f12283-948f-40dd-9b65-66f18b0c749f)
-</p>
+
 <img src=file:///Users/myhome/Downloads/a.html>
 
 <div align="center"><h3>Hello😄 my name is Park Hyun woo 
